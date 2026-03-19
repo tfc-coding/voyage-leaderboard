@@ -1,0 +1,6 @@
+{
+  "name": "voyage-leaderboard",
+  "version": "1.0.0",
+  "description": "Voyage Accountability Leaderboard - embedded in Heartbeat",
+  "type": "module"
+}
